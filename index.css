@@ -1,9 +1,6 @@
-body {
-    background-color: azure;
-	border:solid 5px;
-	border-color: skyblue;
-    padding: 20px; 
-}
+
+  
+
 
 body {
     font-size: 20px;
@@ -19,6 +16,7 @@ img.resize {
   height:600px;
 }
 
+
 .scene {
 	position: relative;
 	top: 0;
@@ -27,7 +25,7 @@ img.resize {
 
 .shawnene {
 	position: absolute;
-	top: 370px;
+	top: 320px;
 	left: 300px;
 }
 
@@ -65,3 +63,8 @@ text-align:    center;
 text-shadow:   1px 1px #000000;
 }
 
+.shawnene2 {
+	position: relative;
+	top: 320px;
+	
+}
