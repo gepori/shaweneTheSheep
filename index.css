@@ -1,6 +1,6 @@
-
-  
-
+body {
+    background-color: azure;
+}
 
 body {
     font-size: 20px;
@@ -25,7 +25,7 @@ img.resize {
 
 .shawnene {
 	position: absolute;
-	top: 320px;
+	top: 300px;
 	left: 300px;
 }
 
